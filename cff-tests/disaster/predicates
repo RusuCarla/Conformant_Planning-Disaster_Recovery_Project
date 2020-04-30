@@ -1,0 +1,15 @@
+STREET 				- destroyed
+CIVILIAN				- need-medical
+								- need-resources
+								- on street..
+BUILDING				- under-siege
+								- on-fire
+								- on street..
+BOMB						- armed
+								- at building..
+POLICE					- available
+DEFUSE-TEAM		-available
+INTERVENTION	-available
+HELICOPTER		- available
+AMBULANCE		- available
+FIREFIGHTERS	- available
